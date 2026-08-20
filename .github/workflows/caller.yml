@@ -23,7 +23,7 @@ jobs:
 
     with:
       python-version: "3.12"
-      docker-image: ghcr.io/ananthalakshmi-rednam/github-actions-level4-poc
+      docker-image: ghcr.io/ananthalakshmi-rednam/github-actions-reusable-poc-2
       version: "v1.0.0"
 
     secrets:
