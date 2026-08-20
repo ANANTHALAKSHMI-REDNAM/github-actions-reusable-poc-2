@@ -22,7 +22,7 @@ jobs:
     uses: ANANTHALAKSHMI-REDNAM/github-actions-reusable-workflow/.github/workflows/reusable-ci.yml@main
 
     with:
-      python-version: "3.11"
+      python-version: "3.12"
       docker-image: ghcr.io/ananthalakshmi-rednam/github-actions-level4-poc
 
     secrets:
